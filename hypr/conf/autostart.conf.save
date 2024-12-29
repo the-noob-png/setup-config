@@ -1,0 +1,7 @@
+# Execute your favorite apps at launch
+exec-once = waybar
+exec-once = hyprpaper
+exec-once = dunst
+exec-once=dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
+windowrulev2 = opacity 0.0 override, class:^(xwaylandvideobridge)$
+windowrulev2 = noanim, class:^(xwaylandvideobri

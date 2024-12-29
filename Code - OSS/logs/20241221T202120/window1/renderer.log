@@ -1,0 +1,8 @@
+2024-12-21 20:21:21.439 [error] Error: The editor could not be opened because the file was not found.
+    at Eve.gc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:120493)
+    at async Eve.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:119651)
+    at async HBe.U (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:523:19779)
+    at async HBe.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:523:18330)
+    at async HBe.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:523:17412)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:635:23606
+2024-12-21 20:21:21.471 [info] Started local extension host with pid 3148.
